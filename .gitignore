@@ -131,6 +131,6 @@ dmypy.json
 
 # ignore data downloads
 2/data/*
-
-
+3/catsanddogs/*
+3/all/all/*
 
